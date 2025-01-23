@@ -1,2 +1,3 @@
 # clone-tabnews
-Treinando programação 
+
+Treinando programação
